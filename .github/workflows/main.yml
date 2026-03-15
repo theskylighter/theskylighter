@@ -3,6 +3,10 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write # This is required to push to the output branch
+
 jobs:
   build:
     name: Jobs to update datas
