@@ -1,16 +1,62 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%20%F0%9F%91%8B&animation=fadeIn&type=waving&color=gradient&height=100" alt="Header" />
+</p>
 
-<!--
-**theskylighter/theskylighter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivam-singh-6b044b197/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://theskylighter.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23255E63.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:shiv.27india@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" width="400" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+```yaml
+name: "Shivam Singh"
+education: "B.Tech in AI & Data Engineering at MNIT Jaipur"
+focus: ["Data Structures & Algorithms", "Cloud Infrastructure", "Systems Design"]
+hobbies:
+  - "Solving DSA problems (500+ across platforms)"
+  - "Capture The Flag (Runner-up Sphinx'24)"
+  - "Cybersecurity challenges (50+ solved)"
+```
+
+### 🚀 Featured Projects
+- **[Driver Drowsiness Detection System](https://github.com/theskylighter/minor-project-with-dashboard)**: Real-time fatigue detection using OpenCV and Flask
+- **[Cloud Storage WebApp](https://github.com/theskylighter/drive-clone)**: Secure cloud storage system with Node.js, Firebase, and JWT
+- **[ATS Resume Builder](https://github.com/theskylighter/ATS-Friendly-Resume-Generator)**: AI-powered web platform generating ATS-optimized resumes with simple form based UI using React and Gemini API
+
+### 🧰 Tools and Tech Stuff
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,mysql,bash,react,express,flask,tailwind,git,docker,vscode,linux&perline=8" />
+  </a>
+</p>
+
+### 📈 Your GitHub History
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theskylighter&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theskylighter&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/theskylighter/theskylighter/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+### 📚 My daily.dev Bookmarks
+
+<!-- daily.dev BOOKMARKS:START -->
+<!-- daily.dev BOOKMARKS:END -->
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Thanks%20for%20visiting!&animation=fadeIn&type=waving&color=gradient&height=100" alt="Footer" />
+</p>
