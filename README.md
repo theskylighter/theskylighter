@@ -42,8 +42,8 @@ hobbies:
 ### 📈 My GitHub History
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theskylighter&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theskylighter&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=theskylighter&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=theskylighter&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 <p align="center">
