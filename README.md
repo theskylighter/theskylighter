@@ -54,6 +54,12 @@ hobbies:
   </picture>
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/user2633t">
+    <img src="https://leetcard.jacoblin.cool/user2633t?theme=light,catppuccinMocha&font=Syne&ext=heatmap" alt="LeetCode Stats" width="800" />
+  </a>
+</p>
+
 ### 📚 My daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
