@@ -63,11 +63,11 @@ hobbies:
 ### 📚 My daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/TeSfzWMHk?utm_source=rss&utm_medium=bookmarks&utm_campaign=wjo56eeok4u4apwGPYMmc)
+- [Kubernetes Is Not DevOps : A Short Story](https://app.daily.dev/posts/t6Ggu85SI?utm_source=rss&utm_medium=bookmarks&utm_campaign=wjo56eeok4u4apwGPYMmc)
 - [No title](https://app.daily.dev/posts/Bo9oHQuxr?utm_source=rss&utm_medium=bookmarks&utm_campaign=wjo56eeok4u4apwGPYMmc)
 - [No title](https://app.daily.dev/posts/gBrm3bLU7?utm_source=rss&utm_medium=bookmarks&utm_campaign=wjo56eeok4u4apwGPYMmc)
 - [The Switch To Linux And The Beginning Of My Self-Hosting Journey](https://app.daily.dev/posts/NWYbYqfkf?utm_source=rss&utm_medium=bookmarks&utm_campaign=wjo56eeok4u4apwGPYMmc)
-- [A New Era of VM-Powered Cyber Attacks](https://app.daily.dev/posts/ew1ecb4za?utm_source=rss&utm_medium=bookmarks&utm_campaign=wjo56eeok4u4apwGPYMmc)
-- [Transforming a Disposable Vape into a Functional Web Server](https://app.daily.dev/posts/x3AzrkOsw?utm_source=rss&utm_medium=bookmarks&utm_campaign=wjo56eeok4u4apwGPYMmc)
 <!-- daily.dev BOOKMARKS:END -->
 
 <br/>
