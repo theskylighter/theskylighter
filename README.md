@@ -63,11 +63,11 @@ hobbies:
 ### 📚 My daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Linux is finally ready for gamers, but gamers are still not ready for Linux](https://app.daily.dev/posts/UDYVnYzHZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=wjo56eeok4u4apwGPYMmc)
 - [Qwen3.6–35B-A3B: The Most Practical Open-Source AI Model Yet?](https://app.daily.dev/posts/EIhfhK9n5?utm_source=rss&utm_medium=bookmarks&utm_campaign=wjo56eeok4u4apwGPYMmc)
 - [No title](https://app.daily.dev/posts/TeSfzWMHk?utm_source=rss&utm_medium=bookmarks&utm_campaign=wjo56eeok4u4apwGPYMmc)
 - [Kubernetes Is Not DevOps : A Short Story](https://app.daily.dev/posts/t6Ggu85SI?utm_source=rss&utm_medium=bookmarks&utm_campaign=wjo56eeok4u4apwGPYMmc)
 - [No title](https://app.daily.dev/posts/Bo9oHQuxr?utm_source=rss&utm_medium=bookmarks&utm_campaign=wjo56eeok4u4apwGPYMmc)
-- [No title](https://app.daily.dev/posts/gBrm3bLU7?utm_source=rss&utm_medium=bookmarks&utm_campaign=wjo56eeok4u4apwGPYMmc)
 <!-- daily.dev BOOKMARKS:END -->
 
 <br/>
