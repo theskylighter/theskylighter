@@ -63,11 +63,11 @@ hobbies:
 ### 📚 My daily.dev Bookmarks
 
 <!-- daily.dev BOOKMARKS:START -->
+- [Introducing Motion UI](https://daily.dev/posts/AzsyaVrza?utm_source=rss&utm_medium=bookmarks&utm_campaign=wjo56eeok4u4apwGPYMmc)
 - [Liquid Glass, Material 3, And A Lot Of Plumbing](https://daily.dev/posts/bbw5O99qP?utm_source=rss&utm_medium=bookmarks&utm_campaign=wjo56eeok4u4apwGPYMmc)
 - [Why Infrastructure Is the Moat](https://daily.dev/posts/doPVwMcK7?utm_source=rss&utm_medium=bookmarks&utm_campaign=wjo56eeok4u4apwGPYMmc)
 - [Linux is finally ready for gamers, but gamers are still not ready for Linux](https://daily.dev/posts/UDYVnYzHZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=wjo56eeok4u4apwGPYMmc)
 - [Qwen3.6–35B-A3B: The Most Practical Open-Source AI Model Yet?](https://daily.dev/posts/EIhfhK9n5?utm_source=rss&utm_medium=bookmarks&utm_campaign=wjo56eeok4u4apwGPYMmc)
-- [No title](https://daily.dev/posts/TeSfzWMHk?utm_source=rss&utm_medium=bookmarks&utm_campaign=wjo56eeok4u4apwGPYMmc)
 <!-- daily.dev BOOKMARKS:END -->
 
 <br/>
