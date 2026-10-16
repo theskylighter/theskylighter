@@ -27,9 +27,8 @@ hobbies:
 ```
 
 ### 🚀 Featured Projects
-- **[Driver Drowsiness Detection System](https://github.com/theskylighter/minor-project-with-dashboard)**: Real-time fatigue detection using OpenCV and Flask
-- **[Cloud Storage WebApp](https://github.com/theskylighter/drive-clone)**: Secure cloud storage system with Node.js, Firebase, and JWT
-- **[ATS Resume Builder](https://github.com/theskylighter/ATS-Friendly-Resume-Generator)**: AI-powered web platform generating ATS-optimized resumes with simple form based UI using React and Gemini API
+- **[Multi-Agent Data Analytics Engine](https://github.com/theskylighter/multi-agent-data-analytics-engine)**: Enterprise data engine on LangGraph routing natural-language requests between SQL and ETL agents with safety validation
+- **[College Attendance Management System](https://github.com/theskylighter/college-attendance-management-system)**: Role-based full-stack platform (React, Node, Prisma, MySQL) with JWT auth and audit-preserving correction workflow
 
 ### 🧰 Tools and Tech Stuff
 
